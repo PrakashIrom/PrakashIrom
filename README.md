@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [News App](https://github.com/PrakashIrom/News-App.git)
+- 🔭 I’m currently working on [Recipe-App](https://github.com/PrakashIrom/Recipe-App)
 
 - 🌱 I’m currently learning **Kotlin**
 
