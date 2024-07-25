@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Recipe-App](https://github.com/PrakashIrom/Recipe-App)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Android Develoment Jetpack Compose and Kotlin backend framework Ktor**
 
 - 📫 How to reach me **prakashirom66@gmail.com**
 
