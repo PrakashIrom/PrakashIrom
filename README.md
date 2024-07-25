@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Android Developer</h3>
 
 <div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
 </div>
 
 
