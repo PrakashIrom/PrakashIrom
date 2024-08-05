@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Recipe-App](https://github.com/PrakashIrom/Recipe-App)
+- 🔭 I’m currently working on [MMA-App](https://github.com/PrakashIrom/MMA-Store)
 
 - 🌱 I’m currently learning **Android Develoment Jetpack Compose and Kotlin backend framework Ktor**
 
