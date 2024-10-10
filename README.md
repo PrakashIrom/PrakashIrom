@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [MMA-App](https://github.com/PrakashIrom/MMA-Store) and [Sinshang-Chat]([https://github.com/PrakashIrom/Social-Media-App](https://github.com/PrakashIrom/Sinshang-Chat)
+- 🔭 I’m currently working on [MMA-App](https://github.com/PrakashIrom/MMA-Store) and [Sinshang-Chat](https://github.com/PrakashIrom/Sinshang-Chat)
 
 - 🌱 I’m currently learning **Android Develoment Jetpack Compose and Kotlin backend framework Ktor**
 
